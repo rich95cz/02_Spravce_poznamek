@@ -5,16 +5,12 @@
 **Jazyk:** Python 3.13.3  
 **Knihovny:** `time`
 
----
-
 ## 🧠 O projektu
 
 Tato jednoduchá aplikace pro příkazovou řádku umožňuje správu poznámek.  
 Uživatel může poznámky přidávat, prohlížet, mazat a vše se ukládá do textového souboru.
 
 Projekt byl vytvořen v rámci samostudia pro procvičení práce s podmínkami, cykly, vstupem od uživatele, se soubory a základy funkcí v Pythonu.
-
----
 
 ## 🛠️ Funkcionalita
 
@@ -25,14 +21,10 @@ Projekt byl vytvořen v rámci samostudia pro procvičení práce s podmínkami,
 - ✅ Ošetření chyb – např. chybějící soubor nebo prázdný soubor
 - ✅ Přívětivý výpis a interaktivní menu
 
----
-
 ## 📂 Soubory v projektu
 
 - `main.py` – hlavní skript s kódem aplikace
 - `Textový dokument.txt` – generovaný soubor pro ukládání poznámek (vytvoří se automaticky)
-
----
 
 ## ▶️ Jak spustit program
 
